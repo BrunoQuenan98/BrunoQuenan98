@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Bruno Quenan</h1>
 <h3 align="center">Un apasionado desarrollador Full-Stack de Argentina</h3>
 
-- 📄 Experiencias He desarrollado dos aps(spa), con las tecnologías React.js, Node.js, Express.js, Redux, Sequelize y PostgreSQL. Una conecta a la api externa PokeApi y otra a RAWG, en ambas se pueden visualizar las cards con los personajes paginadas, puedes crear uno tuyo, filtrarlos, ordenarlos y buscar por su nombre!]He desarrollado dos aps(spa), con las tecnologías React.js, Node.js, Express.js, Redux, Sequelize y PostgreSQL. Una conecta a la api externa PokeApi y otra a RAWG, en ambas se pueden visualizar las cards con los personajes paginadas, puedes crear uno tuyo, filtrarlos, ordenarlos y buscar por su nombre!
+- 📄 Actualmente cuento con experiencia desarrollando con tecnologías como React, Node, Express, Redux, Sequelize y PostgreSQL además que me encanta el trabajo en equipo, la resolución de problemas y el constante aprendizaje. He terminado recientemente mi cursada del Bootcamp Henry y me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. Si estas interesado en mi perfil👀, a continuación te dejo mis datos de contacto!
 
-- 📫 Contáctame! **brunoquenan@gmail.com**
+- 📫 Contáctame! **brunoquenandev@gmail.com**
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
