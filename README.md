@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Bruno Quenan</h1>
 <h3 align="center">Un apasionado desarrollador Full-Stack de Argentina</h3>
 
-- 📄 Actualmente cuento con experiencia desarrollando con tecnologías como React, Node, Express, Redux, Sequelize y PostgreSQL además que me encanta el trabajo en equipo, la resolución de problemas y el constante aprendizaje. He terminado recientemente mi cursada del Bootcamp Henry y me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. Si estas interesado en mi perfil👀, a continuación te dejo mis datos de contacto!
+- 📄 Actualmente cuento con experiencia desarrollando con tecnologías como React, Node, Express, Redux, Sequelize y PostgreSQL además me encanta el trabajo en equipo, la resolución de problemas y el constante aprendizaje. He terminado recientemente mi cursada del Bootcamp Henry y me encuentro en búsqueda laboral activa como fullstack, backend o frontend developer. Si estas interesado en mi perfil👀, a continuación te dejo mis datos de contacto!
 
 - 📫 Contáctame! **brunoquenandev@gmail.com**
 
